@@ -22,12 +22,11 @@ Glyph Purpose                   ASCII Description
   =   nomina sacra                3D  equals sign 
   $   numeric abbreviation        24  dollar sign
 
-  *   original scribe uncorrected 2A  asterisk 
-  ^   original scribe correction  5E  circumflex accent 
-  a   second scribe correction    61  Latin small letter A 
-  b   third scribe correction     62  Latin small letter B 
   {   begin edited text           7B  left curly bracket 
   }   end edited text             7D  right curly bracket
+  x   original scribe uncorrected 78  Latin small letter X
+  a   second scribe correction    61  Latin small letter A 
+  b   third scribe correction     62  Latin small letter B 
 
   _   altered word division       5F  underscore 
   [   begin questionable text     5B  left square bracket 
@@ -38,4 +37,5 @@ Glyph Purpose                   ASCII Description
   '   incorporation               27  apostrophe 
   `   allusion                    60  grave accent 
 
-For more information on how these codes are applied, see the CNTR Technical Reference.
+It should be noted that scribal corrections sometimes involve more than one verse and can result in duplicate verse numbers as the order of the corrections is maintained.
+For more information on how these codes are applied, see the CNTR Technical Reference document.
