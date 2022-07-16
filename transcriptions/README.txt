@@ -1,6 +1,6 @@
 ﻿Center for New Testament Restoration Transcriptions
 
-The CNTR transcriptions are copyright © 2021 by Alan Bunning and released under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+The CNTR transcriptions are copyright © 2022 by Alan Bunning and released under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 Attribution should be given to Alan Bunning and the Center for New Testament Restoration. 
 
 Manuscript Encoding Specification
